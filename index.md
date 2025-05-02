@@ -3,13 +3,16 @@ Zhiqun Pan
 
 QQ: 1071482589
 
-E-mail: panzhiqun@139.com
+E-mail: panzhiqun@sdtbu.edu.cn
 
 
 ### Research Point
 Deep learning
+
 Weakly Supervisied Learning
+
 Domain Adaptation
+
 Face Analysis
 
 
