@@ -8,7 +8,8 @@ E-mail: panzhiqun@139.com
 
 ### Research Point
 Deep learning
-
+Weakly Supervisied Learning
+Domain Adaptation
 Face Analysis
 
-Weakly Supervisied Learning
+
